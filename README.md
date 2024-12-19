@@ -1,13 +1,16 @@
-<p align="center"> 
-<img src="images/Overview.png">
-</p>
-
 # Multi-view Consistent 3D Panoptic Scene Understanding
 
-Xianzhu Liu, Xin Sun, Haozhe Xie, Zonglin Li, Ru Li, Shengping Zhang
+Xianzhu Liu<sup>1</sup>, 
+Xin Sun<sup>1</sup>, 
+[Haozhe Xie](https://haozhexie.com/about)<sup>2</sup>, 
+Zonglin Li<sup>1</sup>, 
+[Ru Li](https://liru0126.github.io)<sup>1</sup>, 
+[Shengping Zhang](https://spzhang.wordpress.com)<sup>1</sup>
 
-Harbin Institute of Technology,  Nanyang Technological University, Singapore
+<sup>1</sup>Harbin Institute of Technology, Weihai, China&nbsp;&nbsp;
+<sup>2</sup>Nanyang Technological University, Singapore
 
+![Overview](https://github.com/aipixel/MVC-PSU/blob/main/images/Overview.png?raw=true)
 
 ## Changelog
 
@@ -16,15 +19,15 @@ Harbin Institute of Technology,  Nanyang Technological University, Singapore
 ## Cite this work
 
 ```
-@journal{xie2024gaussiancity,
-  title   = {Multi-view Consistent 3D Panoptic Scene Understanding},
-  author  = {Liu, Xianzhu and 
-             Sun, Xin and 
-             Xie, Haozhe and 
-             Li, Zonglin and 
-             Li, Ru and 
-             Zhang, Shengping},
-  journal = {arXiv 2406.06526},
-  year    = {2024}
+@inproceedings{liu2025mvcpsu,
+  title     = {Multi-view Consistent 3D Panoptic Scene Understanding},
+  author    = {Liu, Xianzhu and 
+               Sun, Xin and 
+               Xie, Haozhe and 
+               Li, Zonglin and 
+               Li, Ru and 
+               Zhang, Shengping},
+  booktitle = {AAAI},
+  year      = {2025}
 }
 ```
