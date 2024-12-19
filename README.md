@@ -1,4 +1,4 @@
-# Multi-view Consistent 3D Panoptic Scene Understanding
+# The official implementation of "Multi-view Consistent 3D Panoptic Scene Understanding". (Liu et al., AAAI 2025)
 
 Xianzhu Liu<sup>1</sup>, 
 Xin Sun<sup>1</sup>, 
