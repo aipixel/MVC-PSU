@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ## Datasets and Pretrained Models 🛢️
 For the datasets used in this paper, please refer to the download and preprocessing instructions provided in [Panoptic-Lifting](https://github.com/nihalsid/panoptic-lifting?tab=readme-ov-file)
 
-You can download our pre-trained checkpoints [here](https://drive.google.com/drive/folders/1q9wZZOiOFv-erM4-1w8PInz3UvKyLN_2)
+You can download our pre-trained checkpoints from [here](https://drive.google.com/drive/folders/1q9wZZOiOFv-erM4-1w8PInz3UvKyLN_2)
 
 
 ## Inference and Evaluation 🚩
