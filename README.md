@@ -15,7 +15,7 @@ Zonglin Li<sup>1</sup>,
 ## Changelog
 
 - [2024/12/19] The repo is created.
-- [2025/5/29] The test code is created.
+- [2025/5/29] The test code has been released.
 
 ## Installation 📥
 
